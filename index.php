@@ -11,7 +11,7 @@
     ================================================== -->
     <meta charset="utf-8">
     <title>Orange Strategy</title>
-    <meta name="description" content="We are a global company creating solutions to all forms of media production, media marketing and online marketing across the globe">
+    <meta name="description" content="We are a global company offering data, media production, marketing and online marketing across the globe to organisations">
     <meta name="author" content="Apt Mobile Solutions Limited">
 
     <!-- mobile specific metas
@@ -114,10 +114,10 @@
                 </h1>
 
                 <div class="home-content__buttons">
-                    <a href="#contact" class="smoothscroll btn btn--stroke">
+                    <a href="#data-management" class="smoothscroll btn btn--stroke">
                         Data Management
                     </a>
-                    <a href="#about" class="smoothscroll btn btn--stroke">
+                    <a href="#media" class="smoothscroll btn btn--stroke">
                         Media
                     </a>
                 </div>
@@ -184,6 +184,76 @@
 
     </section> <!-- end s-about -->
 
+    <!-- about
+    ================================================== -->
+    <section id='about' class="s-about">
+
+        <div class="row section-header has-bottom-sep" data-aos="fade-up">
+            <div class="col-full">
+                <h3 class="subhead subhead--dark">Hello There</h3>
+                <h1 class="display-1 display-1--light">We Are Orange Strategy</h1>
+            </div>
+        </div> <!-- end section-header -->
+
+        <div class="row about-desc" data-aos="fade-up">
+            <div class="col-full">
+                <p>ORANGE STRATEGY LIMITED  (Reg No. RC1186386) is a registered global company with professional idea in content development, production of commercials, documentary, coverage of events, activation and branding, creative solutions in entertainment and media, coupled with digital and online marketing across the globe.</p>
+				<p>Orange Strategy Ltd is a specialised one stop interactive, entertainment, media and content management shop.</p>
+				<p>The company is founded by seasoned, resourceful, innovative and dynamic individuals with over 15 year experience in the field of bespoke content development and media production using high-tech equipment. We are one stop media shop. </p>
+				<p>We provide brands and advertisers with unique, value added, cost saving, brand building and advertising windows to connect with target market in a meaningful and sustainable way.</p>
+				<p>We ensure all details are meticulously attended to, by assessing our clients’ project goals at a microscopic level and offer diversified services with full capabilities. We handle all aspect of media, ranging from content development to commercials, documentary, brand activation etc.</p>
+				<p>We provide our clients with unique, value added, cost saving, brand building and advertising windows to connect with the target market in a meaningful and sustainable way that guarantees return on investment-ROI.</p>
+
+            </div>
+        </div> <!-- end about-desc -->
+
+        <div class="about__line"></div>
+
+    </section> <!-- end s-about -->
+
+    <!-- Data Management
+    ================================================== -->
+    <section id='data-management' class="s-about">
+
+        <div class="row section-header has-bottom-sep" data-aos="fade-up">
+            <div class="col-full">
+                <h3 class="subhead subhead--dark">Hello There</h3>
+                <h1 class="display-1 display-1--light">We Are Orange Strategy</h1>
+            </div>
+        </div> <!-- end section-header -->
+
+        <div class="row about-desc" data-aos="fade-up">
+            <div class="col-full">
+                <p>Lorem ipsum iso osia saj j sajw sjawj </p>
+
+            </div>
+        </div> <!-- end about-desc -->
+
+        <div class="about__line"></div>
+
+    </section> <!-- end s-about -->
+
+    <!-- Media
+    ================================================== -->
+    <section id='media' class="s-about">
+
+        <div class="row section-header has-bottom-sep" data-aos="fade-up">
+            <div class="col-full">
+                <h3 class="subhead subhead--dark">Hello There</h3>
+                <h1 class="display-1 display-1--light">We Are Orange Strategy</h1>
+            </div>
+        </div> <!-- end section-header -->
+
+        <div class="row about-desc" data-aos="fade-up">
+            <div class="col-full">
+                <p>Lorem ipsum iso osia saj j sajw sjawj </p>
+
+            </div>
+        </div> <!-- end about-desc -->
+
+        <div class="about__line"></div>
+
+    </section> <!-- end s-about -->
 
     <!-- services
     ================================================== -->
@@ -657,8 +727,8 @@
                     <div class="cinfo">
                         <h5>Email Us At</h5>
                         <p>
-                            titi@orange-strategy orange-strategy.com<br>
-                            info@orange-strategy orange-strategy.com
+                            titi@orange-strategy.com<br>
+                            info@orange-strategy.com
                         </p>
                     </div>
 
@@ -731,8 +801,8 @@
 
             <div class="col-twelve">
                 <div class="copyright">
-                    <span>© Copyright Orange Strategy 2018</span> 
-                    <span>Site Developed by <a href="http://www.aptmobilesolutions.com/" target="_blank">Apt Mobile Solutions</a></span>
+                    <span>© Copyright Orange Strategy 2017</span> 
+                    <span>Site Developed by <a href="http://www.aptmobilesolutions.com/" target="_blank">Apt Mobile Solutions</a></span>	
                 </div>
 
                 <div class="go-top">
