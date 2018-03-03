@@ -648,26 +648,26 @@
                     <div class="cinfo">
                         <h5>Where to Find Us</h5>
                         <p>
-                            Somewhere in Nigeria,<br>
-                            Ikeja<br>
-                            Lagos State
+                            1600 Amphitheatre Parkway<br>
+                            Mountain View, CA<br>
+                            94043 US
                         </p>
                     </div>
 
                     <div class="cinfo">
                         <h5>Email Us At</h5>
                         <p>
-                            titi@orange-strategy orange-strategy.com<br>
-                            info@orange-strategy orange-strategy.com
+                            contact@Orange Strategysite.com<br>
+                            info@Orange Strategysite.com
                         </p>
                     </div>
 
                     <div class="cinfo">
                         <h5>Call Us At</h5>
                         <p>
-                            Phone: (+xxx) xxx xxxx xxxx<br>
-                            Mobile: (+xxx) xxx xxxx xxxx<br>
-                            Fax: (+xxx) xxx xxxx xxxx
+                            Phone: (+63) 555 1212<br>
+                            Mobile: (+63) 555 0100<br>
+                            Fax: (+63) 555 0101
                         </p>
                     </div>
 
@@ -731,8 +731,8 @@
 
             <div class="col-twelve">
                 <div class="copyright">
-                    <span>© Copyright Orange Strategy 2018</span> 
-                    <span>Site Developed by <a href="http://www.aptmobilesolutions.com/" target="_blank">Apt Mobile Solutions</a></span>
+                    <span>© Copyright Orange Strategy 2017</span> 
+                    <span>Site Template by <a href="https://www.colorlib.com/">Colorlib</a></span>	
                 </div>
 
                 <div class="go-top">
