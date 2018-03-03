@@ -1,0 +1,16 @@
+{
+  "name": "OrangeStrategy",
+  "description": "Orange Strategy",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
