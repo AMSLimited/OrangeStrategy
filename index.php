@@ -11,7 +11,7 @@
     ================================================== -->
     <meta charset="utf-8">
     <title>Orange Strategy</title>
-    <meta name="description" content="We are a global company offering data, media production, marketing and online marketing across the globe to organisations">
+    <meta name="description" content="We are a global company offering data services and media production along with online marketing across the globe to organisations">
     <meta name="author" content="Apt Mobile Solutions Limited">
 
     <!-- mobile specific metas
@@ -58,13 +58,28 @@
                 <ul class="header-nav__list">
                     <li class="current"><a class="smoothscroll"  href="#home" title="home">Home</a></li>
                     <li><a class="smoothscroll"  href="#about" title="about">About</a></li>
-                    <li><a class="smoothscroll"  href="#services" title="services">Services</a></li>
+                    <!-- <li><a class="smoothscroll"  href="#services" title="services">Services</a></li> -->
                     <li><a class="smoothscroll"  href="#works" title="works">Works</a></li>
                     <li><a class="smoothscroll"  href="#clients" title="clients">Clients</a></li>
                     <li><a class="smoothscroll"  href="#contact" title="contact">Contact</a></li>
                 </ul>
     
-                <p>Perspiciatis hic praesentium nesciunt. Et neque a dolorum <a href='#0'>voluptatem</a> porro iusto sequi veritatis libero enim. Iusto id suscipit veritatis neque reprehenderit.</p>
+                <p>
+                Our unique strategies towards achieving our vision are: <br/>
+                    <ul class="colorWhite">
+                    
+                        <li>Radio commercial</li> 
+                        <li>TV commercial</li>
+                        <li>Documentary</li>
+                        <li>Online marketing</li>
+                        <li>Experiential marketing</li>
+                        <li>Brand activation</li>
+                        <li>3D animation</li>
+                        <li>Spot booking</li>
+                        <li>Media buying</li>
+
+                    </ul>
+                </p>
     
                 <ul class="header-nav__social">
                     <li>
@@ -110,7 +125,7 @@
                 <h3>Welcome to Orange Strategy</h3>
 
                 <h1>
-                    We are a global company creating solutions to all forms of media production, media marketing and online marketing across the globe.
+                We are a global company offering data services and media production along with online marketing across the globe to organisations.
                 </h1>
 
                 <div class="home-content__buttons">
@@ -156,34 +171,6 @@
 
     </section> <!-- end s-home -->
 
-
-    <!-- about
-    ================================================== -->
-    <section id='about' class="s-about">
-
-        <div class="row section-header has-bottom-sep" data-aos="fade-up">
-            <div class="col-full">
-                <h3 class="subhead subhead--dark">Hello There</h3>
-                <h1 class="display-1 display-1--light">We Are Orange Strategy</h1>
-            </div>
-        </div> <!-- end section-header -->
-
-        <div class="row about-desc" data-aos="fade-up">
-            <div class="col-full">
-                <p>ORANGE STRATEGY LIMITED  (Reg No. RC1186386) is a registered global company with professional idea in content development, production of commercials, documentary, coverage of events, activation and branding, creative solutions in entertainment and media, coupled with digital and online marketing across the globe.</p>
-				<p>Orange Strategy Ltd is a specialised one stop interactive, entertainment, media and content management shop.</p>
-				<p>The company is founded by seasoned, resourceful, innovative and dynamic individuals with over 15 year experience in the field of bespoke content development and media production using high-tech equipment. We are one stop media shop. </p>
-				<p>We provide brands and advertisers with unique, value added, cost saving, brand building and advertising windows to connect with target market in a meaningful and sustainable way.</p>
-				<p>We ensure all details are meticulously attended to, by assessing our clients’ project goals at a microscopic level and offer diversified services with full capabilities. We handle all aspect of media, ranging from content development to commercials, documentary, brand activation etc.</p>
-				<p>We provide our clients with unique, value added, cost saving, brand building and advertising windows to connect with the target market in a meaningful and sustainable way that guarantees return on investment-ROI.</p>
-
-            </div>
-        </div> <!-- end about-desc -->
-
-        <div class="about__line"></div>
-
-    </section> <!-- end s-about -->
-
     <!-- about
     ================================================== -->
     <section id='about' class="s-about">
@@ -217,15 +204,13 @@
 
         <div class="row section-header has-bottom-sep" data-aos="fade-up">
             <div class="col-full">
-                <h3 class="subhead subhead--dark">Hello There</h3>
-                <h1 class="display-1 display-1--light">We Are Orange Strategy</h1>
+                <h1 class="display-1 display-1--light">Data Management</h1>
             </div>
         </div> <!-- end section-header -->
 
         <div class="row about-desc" data-aos="fade-up">
             <div class="col-full">
-                <p>Lorem ipsum iso osia saj j sajw sjawj </p>
-
+                <p>We help you in organizing and maintaining data processes to meet ongoing information lifecycle needs as an idividual or as an organisation.</p>
             </div>
         </div> <!-- end about-desc -->
 
@@ -235,25 +220,91 @@
 
     <!-- Media
     ================================================== -->
-    <section id='media' class="s-about">
+    <section id="media" class="s-services">
 
-        <div class="row section-header has-bottom-sep" data-aos="fade-up">
+        <div class="row section-header has-bottom-sep aos-init aos-animate" data-aos="fade-up">
             <div class="col-full">
-                <h3 class="subhead subhead--dark">Hello There</h3>
-                <h1 class="display-1 display-1--light">We Are Orange Strategy</h1>
+                <h1 class="display-2">Media</h1>
+                <div class="row about-desc" data-aos="fade-up">
+                    <div class="col-full">
+                        <p>The benefits of advertising can never be over emphasised. For both new and existing product, advertising provides a means to make a large market aware of such product. The following are the various benefits of advertising:</p>
+                    </div>
+                </div>
             </div>
         </div> <!-- end section-header -->
 
-        <div class="row about-desc" data-aos="fade-up">
-            <div class="col-full">
-                <p>Lorem ipsum iso osia saj j sajw sjawj </p>
+        <div class="row services-list block-1-2 block-tab-full">
 
+            <div class="col-block service-item aos-init aos-animate" data-aos="fade-up">
+                <div class="service-icon">
+                    <i class="icon-paint-brush"></i>
+                </div>
+                <div class="service-text">
+                    <h3 class="h2"> Brand Awareness & Exposure</h3>
+                    <p>An organization’s main objective should be to keep it’s brand on the mind of it’s target audience. Frequent advertising build awareness, awareness builds familiarity and familiarity builds trust. Through this means, we will register your brand on the mind of the target audience</p>
+                </div>
             </div>
-        </div> <!-- end about-desc -->
 
-        <div class="about__line"></div>
+            <div class="col-block service-item aos-init aos-animate" data-aos="fade-up">
+                <div class="service-icon">
+                    <i class="icon-group"></i>
+                </div>
+                <div class="service-text">
+                    <h3 class="h2">Influence</h3>
+                    <p>Today’s advertising influences tomorrow's buyers. Advertising turns wants into needs, a well-executed target campaign will trigger quick sales</p>
+                </div>
+            </div>
 
-    </section> <!-- end s-about -->
+            <div class="col-block service-item aos-init aos-animate" data-aos="fade-up">
+                <div class="service-icon">
+                    <i class="icon-megaphone"></i>
+                </div>  
+                <div class="service-text">
+                    <h3 class="h2">Product Differentiation</h3>
+                    <p>Organisations frequently use advertising to show how their product has more benefits and is more effective than similar competitor’s products.</p>
+                </div>
+            </div>
+
+            <div class="col-block service-item aos-init aos-animate" data-aos="fade-up">
+                <div class="service-icon">
+                    <i class="icon-earth"></i>
+                </div>
+                <div class="service-text">
+                    <h3 class="h2">Web Design</h3>
+                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
+                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
+                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-block service-item aos-init aos-animate" data-aos="fade-up">
+                <div class="service-icon">
+                    <i class="icon-cube"></i>
+                </div>
+                <div class="service-text">
+                    <h3 class="h2">Packaging Design</h3>
+                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
+                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
+                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+                    </p>
+                </div>
+            </div>
+    
+            <div class="col-block service-item aos-init aos-animate" data-aos="fade-up">
+                <div class="service-icon"><i class="icon-lego-block"></i></div>
+                <div class="service-text">
+                    <h3 class="h2">Web Development</h3>
+                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
+                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
+                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+                    </p>
+                </div>
+            </div>
+
+        </div> <!-- end services-list -->
+
+    </section>
 
     <!-- services
     ================================================== -->
@@ -302,10 +353,8 @@
 						<i class="icon-paint-brush"></i>
 					</div>
 					<div class="service-text">
-						<h3 class="h2 colorWhite">Brand Identity</h3>
-						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+						<h3 class="h2 colorWhite">Sterling Bank radio drama programme ‘Dotti Don Do’</h3>
+						<p class="colorWhite">‘Dotti Don Do’ is a 15mins radio drama program based on environmental sanitation awareness. The content and idea was developed by Orange Strategy Ltd, alongside the production and media buying of the programme. Dotti Don Do is presently airing on 5 radio stations across Lagos State.
 						</p>
 					</div>
 				</div>
@@ -315,254 +364,19 @@
 						<i class="icon-group"></i>
 					</div>
 					<div class="service-text">
-						<h3 class="h2 colorWhite">Illustration</h3>
-						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+						<h3 class="h2 colorWhite">Sterling Bank ‘Get Ready For Work Concert’ 2013 & 2014 </h3>
+						<p class="colorWhite">‘Get Ready For Work Concert’ is an initiative of Sterling Bank, to change the mind set of graduates towards entrepreneurship and equip them with skills to bridge the gap between employee expectations and employer requirements. Orange Strategy Ltd handled the video coverage and produced a 30mins documentary on both event.
+                            <ul class="colorWhite">
+                                <li>Production of a radio and TV commercial for Yoyo Bitters.</li>
+                                <li>Production of a TV commercial for Westman Apparels.</li>
+                                <li>Production of a radio commercial for Crusader Insurance.</li>
+                                <li>Bottom strip advert and logo pop up for Lifebuoy soap.</li>
+                            </ul>
 						</p>
 					</div>
 				</div>
-
-				<div class="col-block service-item" data-aos="fade-up">
-					<div class="service-icon">
-						<i class="icon-megaphone"></i>
-					</div>  
-					<div class="service-text">
-						<h3 class="h2 colorWhite">Marketing</h3>
-						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-						</p>
-					</div>
-				</div>
-
-				<div class="col-block service-item" data-aos="fade-up">
-					<div class="service-icon">
-						<i class="icon-earth"></i>
-					</div>
-					<div class="service-text">
-						<h3 class="h2 colorWhite">Web Design</h3>
-						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-						</p>
-					</div>
-				</div>
-
-				<div class="col-block service-item" data-aos="fade-up">
-					<div class="service-icon">
-						<i class="icon-cube"></i>
-					</div>
-					<div class="service-text">
-						<h3 class="h2 colorWhite">Packaging Design</h3>
-						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-						</p>
-					</div>
-				</div>
-		
-				<div class="col-block service-item" data-aos="fade-up">
-					<div class="service-icon"><i class="icon-lego-block"></i></div>
-					<div class="service-text">
-						<h3 class="h2 colorWhite">Web Development</h3>
-						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-						</p>
-					</div>
-				</div>
-			</div>
 
         </div> <!-- end services-list -->
-
-        <!-- <div class="row works-content">
-            <div class="col-full masonry-wrap">
-                <div class="masonry">
-    
-                    <div class="masonry__brick" data-aos="fade-up">
-                        <div class="item-folio">
-                                
-                            <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-shutterbug.jpg" class="thumb-link" title="Shutterbug" data-size="1050x700">
-                                    <img src="images/portfolio/lady-shutterbug.jpg" 
-                                         srcset="images/portfolio/lady-shutterbug.jpg 1x, images/portfolio/lady-shutterbug@2x.jpg 2x" alt="">
-                                </a>
-                            </div>
-    
-                            <div class="item-folio__text">
-                                <h3 class="item-folio__title">
-                                    Shutterbug
-                                </h3>
-                                <p class="item-folio__cat">
-                                    Branding
-                                </p>
-                            </div>
-    
-                            <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                                <i class="icon-link"></i>
-                            </a>
-    
-                            <div class="item-folio__caption">
-                                <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                            </div>
-    
-                        </div>
-                    </div>
-
-                    <div class="masonry__brick" data-aos="fade-up">
-                        <div class="item-folio">
-                                
-                            <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-woodcraft.jpg" class="thumb-link" title="Woodcraft" data-size="1050x700">
-                                    <img src="images/portfolio/woodcraft.jpg" 
-                                         srcset="images/portfolio/woodcraft.jpg 1x, images/portfolio/woodcraft@2x.jpg 2x" alt="">
-                                </a>
-                            </div>
-    
-                            <div class="item-folio__text">
-                                <h3 class="item-folio__title">
-                                    Woodcraft
-                                </h3>
-                                <p class="item-folio__cat">
-                                    Web Design
-                                </p>
-                            </div>
-    
-                            <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                                <i class="icon-link"></i>
-                            </a>
-    
-                            <div class="item-folio__caption">
-                                <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                            </div>
-    
-                        </div>
-                    </div> 
-    
-                    <div class="masonry__brick" data-aos="fade-up">
-                        <div class="item-folio">
-                                
-                            <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-beetle.jpg" class="thumb-link" title="The Beetle Car" data-size="1050x700">
-                                    <img src="images/portfolio/the-beetle.jpg"
-                                         srcset="images/portfolio/the-beetle.jpg 1x, images/portfolio/the-beetle@2x.jpg 2x" alt="">
-                                </a>
-                            </div>
-    
-                            <div class="item-folio__text">
-                                <h3 class="item-folio__title">
-                                    The Beetle
-                                </h3>
-                                <p class="item-folio__cat">
-                                    Web Development
-                                </p>
-                            </div>
-    
-                            <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                                <i class="icon-link"></i>
-                            </a>
-    
-                            <div class="item-folio__caption">
-                                <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                            </div>
-    
-                        </div>
-                    </div>
-    
-                    <div class="masonry__brick" data-aos="fade-up">
-                        <div class="item-folio">
-                                
-                            <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-grow-green.jpg" class="thumb-link" title="Grow Green" data-size="1050x700">
-                                    <img src="images/portfolio/grow-green.jpg" 
-                                         srcset="images/portfolio/grow-green.jpg 1x, images/portfolio/grow-green@2x.jpg 2x" alt="">
-                                </a>
-                            </div>
-    
-                            <div class="item-folio__text">
-                                <h3 class="item-folio__title">
-                                    Grow Green
-                                </h3>
-                                <p class="item-folio__cat">
-                                    Branding
-                                </p>
-                            </div>
-    
-                            <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                                <i class="icon-link"></i>
-                            </a>
-    
-                            <div class="item-folio__caption">
-                                <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                            </div>
-    
-                        </div>
-                    </div>
-
-                    <div class="masonry__brick" data-aos="fade-up">
-                        <div class="item-folio">
-                                
-                            <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-guitarist.jpg" class="thumb-link" title="Guitarist" data-size="1050x700">
-                                    <img src="images/portfolio/guitarist.jpg" 
-                                         srcset="images/portfolio/guitarist.jpg 1x, images/portfolio/guitarist@2x.jpg 2x" alt="">
-                                </a>
-                            </div>
-    
-                            <div class="item-folio__text">
-                                <h3 class="item-folio__title">
-                                    Guitarist
-                                </h3>
-                                <p class="item-folio__cat">
-                                    Web Design
-                                </p>
-                            </div>
-    
-                            <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                                <i class="icon-link"></i>
-                            </a>
-    
-                            <div class="item-folio__caption">
-                                <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                            </div>
-    
-                        </div>
-                    </div> 
-    
-                    <div class="masonry__brick" data-aos="fade-up">
-                        <div class="item-folio">
-                                
-                            <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-palmeira.jpg" class="thumb-link" title="Palmeira" data-size="1050x700">
-                                    <img src="images/portfolio/palmeira.jpg"
-                                         srcset="images/portfolio/palmeira.jpg 1x, images/portfolio/palmeira@2x.jpg 2x" alt="">
-                                </a>
-                            </div>
-    
-                            <div class="item-folio__text">
-                                <h3 class="item-folio__title">
-                                    Palmeira
-                                </h3>
-                                <p class="item-folio__cat">
-                                    Web Design
-                                </p>
-                            </div>
-    
-                            <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                                <i class="icon-link"></i>
-                            </a>
-    
-                            <div class="item-folio__caption">
-                                <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                            </div>
-    
-                        </div>
-                    </div> 
-
-                </div>
-            </div> 
-        </div>  -->
 
     </section> <!-- end s-works -->
 
