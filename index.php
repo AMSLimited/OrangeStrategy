@@ -11,8 +11,8 @@
     ================================================== -->
     <meta charset="utf-8">
     <title>Orange Strategy</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="We are a global company creating solutions to all forms of media production, media marketing and online marketing across the globe">
+    <meta name="author" content="Apt Mobile Solutions Limited">
 
     <!-- mobile specific metas
     ================================================== -->
@@ -110,18 +110,15 @@
                 <h3>Welcome to Orange Strategy</h3>
 
                 <h1>
-                    We are a creative group <br>
-                    of people who design <br>
-                    influential brands and <br>
-                    digital experiences.
+                    We are a global company creating solutions to all forms of media production, media marketing and online marketing across the globe.
                 </h1>
 
                 <div class="home-content__buttons">
                     <a href="#contact" class="smoothscroll btn btn--stroke">
-                        Start a Project
+                        Data Management
                     </a>
                     <a href="#about" class="smoothscroll btn btn--stroke">
-                        More About Us
+                        Media
                     </a>
                 </div>
 
@@ -173,32 +170,15 @@
 
         <div class="row about-desc" data-aos="fade-up">
             <div class="col-full">
-                <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. 
-                </p>
+                <p>ORANGE STRATEGY LIMITED  (Reg No. RC1186386) is a registered global company with professional idea in content development, production of commercials, documentary, coverage of events, activation and branding, creative solutions in entertainment and media, coupled with digital and online marketing across the globe.</p>
+				<p>Orange Strategy Ltd is a specialised one stop interactive, entertainment, media and content management shop.</p>
+				<p>The company is founded by seasoned, resourceful, innovative and dynamic individuals with over 15 year experience in the field of bespoke content development and media production using high-tech equipment. We are one stop media shop. </p>
+				<p>We provide brands and advertisers with unique, value added, cost saving, brand building and advertising windows to connect with target market in a meaningful and sustainable way.</p>
+				<p>We ensure all details are meticulously attended to, by assessing our clients’ project goals at a microscopic level and offer diversified services with full capabilities. We handle all aspect of media, ranging from content development to commercials, documentary, brand activation etc.</p>
+				<p>We provide our clients with unique, value added, cost saving, brand building and advertising windows to connect with the target market in a meaningful and sustainable way that guarantees return on investment-ROI.</p>
+
             </div>
         </div> <!-- end about-desc -->
-
-        <div class="row about-stats stats block-1-4 block-m-1-2 block-mob-full" data-aos="fade-up">
-                
-            <div class="col-block stats__col ">
-                <div class="stats__count">127</div>
-                <h5>Awards Received</h5>
-            </div>
-            <div class="col-block stats__col">
-                <div class="stats__count">1505</div>
-                <h5>Cups of Coffee</h5>
-            </div>
-            <div class="col-block stats__col">
-                <div class="stats__count">109</div>
-                <h5>Projects Completed</h5>
-            </div>
-            <div class="col-block stats__col">
-                <div class="stats__count">102</div>
-                <h5>Happy Clients</h5> 
-            </div>
-
-        </div> <!-- end about-stats -->
 
         <div class="about__line"></div>
 
@@ -212,96 +192,29 @@
         <div class="row section-header has-bottom-sep" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead">What We Do</h3>
-                <h1 class="display-2">We’ve got everything you need to launch and grow your business</h1>
+                <h1 class="display-2">We’ve got everything you need to launch and grow your business</h1>				
             </div>
+			
+			<div class="row about-desc" data-aos="fade-up">
+				<div class="col-full">
+					<p>At Orange Strategy Limited, we are committed to establishing a strong reputation for exceptional service delivery that will not only guaranty results, but ensure that our clients own the top range in their respective field and industries through what we tagged- GIVING LIFE TO DREAMS.
+					Our dedicated team live and work to ensure that each project we embark on exceeds our clients’ expectation, focusing on unique creativity and considering exact individual or organizational details and budget requirement.</p>
+					 
+					<p><h3 class="subhead">OUR VISION</h3>
+					To be the preferred content development and media branding solution firm in Nigeria and beyond.</p>
+					 
+					<p><h3 class="subhead">OUR MISSION</h3>
+					 To continually add value to our clients’ personalities and businesses through our various services, for short and long term projects, making every project we handle a memorable one by bringing life to dreams.</p>
+				</div>
+			</div>
         </div> <!-- end section-header -->
-
-        <div class="row services-list block-1-2 block-tab-full">
-
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-paint-brush"></i>
-                </div>
-                <div class="service-text">
-                    <h3 class="h2">Brand Identity</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-group"></i>
-                </div>
-                <div class="service-text">
-                    <h3 class="h2">Illustration</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-megaphone"></i>
-                </div>  
-                <div class="service-text">
-                    <h3 class="h2">Marketing</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-earth"></i>
-                </div>
-                <div class="service-text">
-                    <h3 class="h2">Web Design</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-cube"></i>
-                </div>
-                <div class="service-text">
-                    <h3 class="h2">Packaging Design</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-    
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon"><i class="icon-lego-block"></i></div>
-                <div class="service-text">
-                    <h3 class="h2">Web Development</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-        </div> <!-- end services-list -->
 
     </section> <!-- end s-services -->
 
 
     <!-- works
     ================================================== -->
-    <section id='works' class="s-works">
+    <section id='works' class="s-works" style="padding: 0px;">
 
         <div class="intro-wrap">
                 
@@ -311,10 +224,89 @@
                     <h1 class="display-2 display-2--light">We love what we do, check out some of our latest works</h1>
                 </div>
             </div> <!-- end section-header -->
+			
+			<div class="row services-list block-1-2 block-tab-full">
 
-        </div> <!-- end intro-wrap -->
+				<div class="col-block service-item" data-aos="fade-up">
+					<div class="service-icon">
+						<i class="icon-paint-brush"></i>
+					</div>
+					<div class="service-text">
+						<h3 class="h2 colorWhite">Brand Identity</h3>
+						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
+						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
+						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+						</p>
+					</div>
+				</div>
 
-        <div class="row works-content">
+				<div class="col-block service-item" data-aos="fade-up">
+					<div class="service-icon">
+						<i class="icon-group"></i>
+					</div>
+					<div class="service-text">
+						<h3 class="h2 colorWhite">Illustration</h3>
+						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
+						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
+						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+						</p>
+					</div>
+				</div>
+
+				<div class="col-block service-item" data-aos="fade-up">
+					<div class="service-icon">
+						<i class="icon-megaphone"></i>
+					</div>  
+					<div class="service-text">
+						<h3 class="h2 colorWhite">Marketing</h3>
+						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
+						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
+						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+						</p>
+					</div>
+				</div>
+
+				<div class="col-block service-item" data-aos="fade-up">
+					<div class="service-icon">
+						<i class="icon-earth"></i>
+					</div>
+					<div class="service-text">
+						<h3 class="h2 colorWhite">Web Design</h3>
+						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
+						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
+						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+						</p>
+					</div>
+				</div>
+
+				<div class="col-block service-item" data-aos="fade-up">
+					<div class="service-icon">
+						<i class="icon-cube"></i>
+					</div>
+					<div class="service-text">
+						<h3 class="h2 colorWhite">Packaging Design</h3>
+						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
+						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
+						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+						</p>
+					</div>
+				</div>
+		
+				<div class="col-block service-item" data-aos="fade-up">
+					<div class="service-icon"><i class="icon-lego-block"></i></div>
+					<div class="service-text">
+						<h3 class="h2 colorWhite">Web Development</h3>
+						<p class="colorWhite">Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
+						Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
+						Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+						</p>
+					</div>
+				</div>
+			</div>
+
+        </div> <!-- end services-list -->
+
+        <!-- <div class="row works-content">
             <div class="col-full masonry-wrap">
                 <div class="masonry">
     
@@ -346,7 +338,7 @@
                             </div>
     
                         </div>
-                    </div> <!-- end masonry__brick -->
+                    </div>
 
                     <div class="masonry__brick" data-aos="fade-up">
                         <div class="item-folio">
@@ -376,7 +368,7 @@
                             </div>
     
                         </div>
-                    </div> <!-- end masonry__brick -->
+                    </div> 
     
                     <div class="masonry__brick" data-aos="fade-up">
                         <div class="item-folio">
@@ -406,7 +398,7 @@
                             </div>
     
                         </div>
-                    </div> <!-- end masonry__brick -->
+                    </div>
     
                     <div class="masonry__brick" data-aos="fade-up">
                         <div class="item-folio">
@@ -436,7 +428,7 @@
                             </div>
     
                         </div>
-                    </div> <!-- end masonry__brick -->
+                    </div>
 
                     <div class="masonry__brick" data-aos="fade-up">
                         <div class="item-folio">
@@ -466,7 +458,7 @@
                             </div>
     
                         </div>
-                    </div> <!-- end masonry__brick -->
+                    </div> 
     
                     <div class="masonry__brick" data-aos="fade-up">
                         <div class="item-folio">
@@ -496,11 +488,11 @@
                             </div>
     
                         </div>
-                    </div> <!-- end masonry__brick -->
+                    </div> 
 
-                </div> <!-- end masonry -->
-            </div> <!-- end col-full -->
-        </div> <!-- end works-content -->
+                </div>
+            </div> 
+        </div>  -->
 
     </section> <!-- end s-works -->
 
@@ -740,7 +732,7 @@
             <div class="col-twelve">
                 <div class="copyright">
                     <span>© Copyright Orange Strategy 2017</span> 
-                    <span>Site Developed by <a href="http://www.aptmobilesolutions.com/" target="_blank">Apt Mobile Solutions</a></span>	
+                    <span>Site Template by <a href="https://www.colorlib.com/">Colorlib</a></span>	
                 </div>
 
                 <div class="go-top">
