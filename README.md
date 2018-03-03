@@ -1,4 +1,0 @@
-# OrangeStrategy
-Orange Strategy
-
-Test
