@@ -732,7 +732,11 @@
             <div class="col-twelve">
                 <div class="copyright">
                     <span>© Copyright Orange Strategy 2017</span> 
-                    <span>Site Developed by <a href="http://www.aptmobilesolutions.com/" target="_blank">Apt Mobile Solutions</a></span>	
+<<<<<<< HEAD
+                    <span>Site Developed by <a href="http://www.aptmobilesolutions.com/" target="_blank">Colorlib</a></span>	
+=======
+                    <span>Site Template by <a href="https://www.colorlib.com/">Colorlib</a></span>	
+>>>>>>> master
                 </div>
 
                 <div class="go-top">
