@@ -1,5 +1,4 @@
 <?php
 
-   echo "echo
-
- ?>
+echo "My first PHP script!";
+?>
