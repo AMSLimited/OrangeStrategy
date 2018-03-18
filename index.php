@@ -184,12 +184,9 @@
 
         <div class="row about-desc" data-aos="fade-up">
             <div class="col-full">
-                <p>ORANGE STRATEGY LIMITED  (Reg No. RC1186386) is a registered global company with professional idea in content development, production of commercials, documentary, coverage of events, activation and branding, creative solutions in entertainment and media, coupled with digital and online marketing across the globe.</p>
-				<p>Orange Strategy Ltd is a specialised one stop interactive, entertainment, media and content management shop.</p>
-				<p>The company is founded by seasoned, resourceful, innovative and dynamic individuals with over 15 year experience in the field of bespoke content development and media production using high-tech equipment. We are one stop media shop. </p>
-				<p>We provide brands and advertisers with unique, value added, cost saving, brand building and advertising windows to connect with target market in a meaningful and sustainable way.</p>
+                <p>ORANGE STRATEGY LIMITED  (Reg No. RC1186386) is a specialised one stop shop for data management, interactive, entertainment, idea and content development. We provide brands and advertisers with unique, value added, cost saving, brand building and advertising windows to connect with target market in a meaningful and sustainable way.</p>
+								
 				<p>We ensure all details are meticulously attended to, by assessing our clients’ project goals at a microscopic level and offer diversified services with full capabilities. We handle all aspect of media, ranging from content development to commercials, documentary, brand activation etc.</p>
-				<p>We provide our clients with unique, value added, cost saving, brand building and advertising windows to connect with the target market in a meaningful and sustainable way that guarantees return on investment-ROI.</p>
 
             </div>
         </div> <!-- end about-desc -->
@@ -348,9 +345,42 @@
 			
 			<div class="row services-list block-1-2 block-tab-full">
 
+                <div class="col-block service-item" data-aos="fade-up">
+                    <div class="service-icon">
+                        <i class="icon-star"></i>
+                    </div>
+                    <div class="service-text">
+                        <h3 class="h2 colorWhite">Sterling Bank 'Parenting Workshop'</h3>
+                        <p class="colorWhite">Sterling Bank, in collaboration with Caleb group of schools organised a parenting workshop. The workshop is aimed at educating parents and guardians on how to nurture their children and bring out the best in them.This event holds every quarter. Orange Strategy Ltd handles the video coverage, alongside a 30mins documentary on the event.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-block service-item" data-aos="fade-up">
+                    <div class="service-icon">
+                        <i class="icon-star"></i>
+                    </div>
+                    <div class="service-text">
+                        <h3 class="h2 colorWhite">The Future Awards Africa (TFAA) 2015 & 2016</h3>
+                        <p class="colorWhite">Orange Strategy Ltd did a coverage of the event, alongside a 15mins documentary on Sterling Bank's red carpet at The Future Awards Africa.
+                        </p>
+                    </div>
+                </div>
+
+                 <div class="col-block service-item" data-aos="fade-up">
+                    <div class="service-icon">
+                        <i class="icon-star"></i>
+                    </div>
+                    <div class="service-text">
+                        <h3 class="h2 colorWhite">Lagos Waste Management Authority (LAWMA)</h3>
+                        <p class="colorWhite">Orange Strategy Ltd did some jingles, 60secs radio adverts and 45secs TV commercial for LAWMA.
+                        </p>
+                    </div>
+                </div>
+
 				<div class="col-block service-item" data-aos="fade-up">
 					<div class="service-icon">
-						<i class="icon-paint-brush"></i>
+						<i class="icon-star"></i>
 					</div>
 					<div class="service-text">
 						<h3 class="h2 colorWhite">Sterling Bank radio drama programme ‘Dotti Don Do’</h3>
@@ -361,7 +391,7 @@
 
 				<div class="col-block service-item" data-aos="fade-up">
 					<div class="service-icon">
-						<i class="icon-group"></i>
+						<i class="icon-star"></i>
 					</div>
 					<div class="service-text">
 						<h3 class="h2 colorWhite">Sterling Bank ‘Get Ready For Work Concert’ 2013 & 2014 </h3>
@@ -388,8 +418,7 @@
         <div class="row section-header" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead">Our Clients</h3>
-                <h1 class="display-2">Orange Strategy has been honored to
-                partner up with these clients</h1>
+                <h1 class="display-2">Orange Strategy has been honored to partner up with these clients</h1>
             </div>
         </div> <!-- end section-header -->
 
@@ -409,55 +438,6 @@
                 </div> <!-- end clients -->
             </div> <!-- end col-full -->
         </div> <!-- end clients-outer -->
-
-        <div class="row clients-testimonials" data-aos="fade-up">
-            <div class="col-full">
-                <div class="testimonials">
-
-                    <div class="testimonials__slide">
-
-                        <p>Qui ipsam temporibus quisquam vel. Maiores eos cumque distinctio nam accusantium ipsum. 
-                        Laudantium quia consequatur molestias delectus culpa facere hic dolores aperiam. Accusantium quos qui praesentium corpori.
-                        Excepturi nam cupiditate culpa doloremque deleniti repellat.</p>
-
-                        <img src="images/avatars/user-01.jpg" alt="Author image" class="testimonials__avatar">
-                        <div class="testimonials__info">
-                            <span class="testimonials__name">Tim Cook</span> 
-                            <span class="testimonials__pos">CEO, Apple</span>
-                        </div>
-
-                    </div>
-
-                    <div class="testimonials__slide">
-                        
-                        <p>Excepturi nam cupiditate culpa doloremque deleniti repellat. Veniam quos repellat voluptas animi adipisci.
-                        Nisi eaque consequatur. Quasi voluptas eius distinctio. Atque eos maxime. Qui ipsam temporibus quisquam vel.</p>
-
-                        <img src="images/avatars/user-05.jpg" alt="Author image" class="testimonials__avatar">
-                        <div class="testimonials__info">
-                            <span class="testimonials__name">Sundar Pichai</span> 
-                            <span class="testimonials__pos">CEO, Google</span>
-                        </div>
-
-                    </div>
-
-                    <div class="testimonials__slide">
-                        
-                        <p>Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam.  
-                        Autem eaque officia cum exercitationem sunt voluptatum accusamus. Quasi voluptas eius distinctio.</p>
-
-                        <img src="images/avatars/user-02.jpg" alt="Author image" class="testimonials__avatar">
-                        <div class="testimonials__info">
-                            <span class="testimonials__name">Satya Nadella</span> 
-                            <span class="testimonials__pos">CEO, Microsoft</span>
-                        </div>
-
-                    </div>
-
-                </div><!-- end testimonials -->
-                
-            </div> <!-- end col-full -->
-        </div> <!-- end client-testimonials -->
 
     </section> <!-- end s-clients -->
 
@@ -541,7 +521,6 @@
                     <div class="cinfo">
                         <h5>Email Us At</h5>
                         <p>
-                            titi@orange-strategy.com<br>
                             info@orange-strategy.com
                         </p>
                     </div>
@@ -590,22 +569,17 @@
             <div class="col-six tab-full left footer-desc">
 
                 <div class="footer-logo"></div>
-                Proin eget tortor risus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Quaerat voluptas autem necessitatibus vitae aut.
+                We are a global company offering data services and media production along with online marketing across the globe to organisations.
 
             </div>
 
             <div class="col-six tab-full right footer-subscribe">
 
-                <h4>Get Notified</h4>
-                <p>Quia quo qui sed odit. Quaerat voluptas autem necessitatibus vitae aut non alias sed quia. Ut itaque enim optio ut excepturi deserunt iusto porro.</p>
-
-                <div class="subscribe-form">
-                    <form id="mc-form" class="group" novalidate="true">
-                        <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required="">
-                        <input type="submit" name="subscribe" value="Subscribe">
-                        <label for="mc-email" class="subscribe-message"></label>
-                    </form>
-                </div>
+               <p><h3 class="subhead">OUR VISION</h3>
+                To be the preferred content development and media branding solution firm in Nigeria and beyond.</p>
+                 
+                <p><h3 class="subhead">OUR MISSION</h3>
+                 To continually add value to our clients’ personalities and businesses through our various services, for short and long term projects, making every project we handle a memorable one by bringing life to dreams.</p>
 
             </div>
 
